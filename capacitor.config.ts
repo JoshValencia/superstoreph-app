@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.jamesonsaunders.convertwebsitetoapp',
-  appName: 'Website to App',
+  appId: 'shop.superstoreph.app',
+  appName: 'Super Store PH',
   webDir: 'www',
   bundledWebRuntime: false,
 };
